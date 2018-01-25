@@ -1,3 +1,5 @@
+//this is pure js, it's not a react component at all... it is manipulating data that react is rendering, but this logic has nothing to do with presentation logic.  that's how we were able to do TDD.
+
 import moment from 'moment';
 
 //get visible expenses
